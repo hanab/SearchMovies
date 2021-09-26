@@ -1,0 +1,76 @@
+{
+   "Search":[
+      {
+         "Title":"Bad Boys",
+         "Year":"1995",
+         "imdbID":"tt0112442",
+         "Type":"movie",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BMGE1ZTQ0ZTEtZTEwZS00NWE0LTlmMDUtMTE1ZWJiZTYzZTQ2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+      },
+      {
+         "Title":"Bad Boys II",
+         "Year":"2003",
+         "imdbID":"tt0172156",
+         "Type":"movie",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BZmU4NzVkZjEtZmQxMi00ZDY5LWI3ZDYtMWRmZjE5YmYwZjQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+      },
+      {
+         "Title":"Bad Boys for Life",
+         "Year":"2020",
+         "imdbID":"tt1502397",
+         "Type":"movie",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+      },
+      {
+         "Title":"Bad Boys",
+         "Year":"1983",
+         "imdbID":"tt0085210",
+         "Type":"movie",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BZGNhNTUxNGMtMTBlOC00MWYwLWFmNjMtYmVhOThjMWU1YjM2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+      },
+      {
+         "Title":"The Bad Boys of Saturday Night Live",
+         "Year":"1998",
+         "imdbID":"tt0500191",
+         "Type":"movie",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BMjAyOTEyMTc1M15BMl5BanBnXkFtZTYwNjk0NzA5._V1_SX300.jpg"
+      },
+      {
+         "Title":"Good Bad Boys",
+         "Year":"1940",
+         "imdbID":"tt0032542",
+         "Type":"movie",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BYjdjZGExN2ItMGZmOS00MDlhLTk5ZjAtZDc0MmQ2MTM4ODA2XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_SX300.jpg"
+      },
+      {
+         "Title":"Grandma and the Bad Boys",
+         "Year":"1900",
+         "imdbID":"tt0327809",
+         "Type":"movie",
+         "Poster":"N/A"
+      },
+      {
+         "Title":"The Bad Boys of Comedy",
+         "Year":"2005–",
+         "imdbID":"tt0460667",
+         "Type":"series",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BNzBhZDkxZTUtOWNiZC00YmQwLTk5NjQtMGZmZTI2MDEyZDM5XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg"
+      },
+      {
+         "Title":"Boys on Film 7: Bad Romance",
+         "Year":"2011",
+         "imdbID":"tt5521056",
+         "Type":"movie",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BNWFiNmM2NTYtMzc4Ni00ZTM0LThmNjktYzgzNzYwOGE2OWI0XkEyXkFqcGdeQXVyMjI0Mjk2MDg@._V1_SX300.jpg"
+      },
+      {
+         "Title":"Bad Boys: Miami Takedown",
+         "Year":"2004",
+         "imdbID":"tt1233516",
+         "Type":"game",
+         "Poster":"N/A"
+      }
+   ],
+   "totalResults":"67",
+   "Response":"True"
+}
