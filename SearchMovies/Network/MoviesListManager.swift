@@ -50,8 +50,8 @@ class MoviesListManager: MoviesManagerProtocol {
             fatalError("Missing string value for \(searchAPIKey) in the info.plist file.")
         }
         let searchTerm = searchTerm.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed) ?? ""
-        let baseURl = "http://www.omdbapi.com/?apikey=\(apiKey)&s=\(searchTerm)"
-        guard let url = URL(string: baseURl) else {
+        let urlString = "http://www.omdbapi.com/?apikey=\(apiKey)&s=\(searchTerm)"
+        guard let url = URL(string: urlString) else {
             return
         }
         fetchMovies(url: url, successHandler: successHandler, errorHandler: errorHandler)

@@ -47,8 +47,8 @@ class MovieManager: MovieManagerProtocol {
         guard let apiKey = Bundle.main.infoDictionary?[searchAPIKey] as? String else {
             fatalError("Missing string value for \(searchAPIKey) in the info.plist file.")
         }
-        let baseURl = "http://www.omdbapi.com/?apikey=\(apiKey)&i=\(imdbId)"
-        guard let url = URL(string: baseURl) else {
+        let urlString = "http://www.omdbapi.com/?apikey=\(apiKey)&i=\(imdbId)"
+        guard let url = URL(string: urlString) else {
             return
         }
         fetchMovie(url: url, successHandler: successHandler, errorHandler: errorHandler)
