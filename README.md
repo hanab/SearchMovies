@@ -40,7 +40,7 @@
  * A: I used Cosmo third party library since it is very easy to use and has all the functionalites I have
  * A: I used URLSession and codable instead of third party libraries as they are simplier to use abd easly testable.
  * Q: What documentation, websites, papers, etc. did you consult for this assignment?
- * A: I mostly used my old repos in this github account as a refrence
+ * A: I mostly used my old repos in this github account as a refrence and I also used documatnation for Cosmo library and also the documentations for the movies API.
  * Q: What third-party libraries or other tools does your application use? How did you choose each library or framework you used?
  * A: I used Cosmo for star rating and used Cocaopods to install it. I chose Cosmo because it is simple to use and has all the functionalities I need including voic over support
  * Q: How long did you spend on this exercise? If you had unlimited time to spend on this, how would you spend it and how would you prioritize each item?
