@@ -32,7 +32,7 @@ class SearchMoviesNewtworkTest: XCTestCase {
         XCTAssert(dataTask.resumeWasCalled)
     }
     
-    func testDataTaskReturnMovies() {
+    func testDataTaskSetSessionUrl() {
         let dataTask = MockURLSessionDataTask()
         session.mockDataTask = dataTask
         

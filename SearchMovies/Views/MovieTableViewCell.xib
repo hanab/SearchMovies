@@ -24,10 +24,10 @@
                         </constraints>
                     </imageView>
                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" alignment="center" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="g8V-Yb-2nc">
-                        <rect key="frame" x="200" y="85" width="194" height="50"/>
+                        <rect key="frame" x="210" y="85" width="184" height="50"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Om1-Ew-9lG">
-                                <rect key="frame" x="76.5" y="0.0" width="41.5" height="21"/>
+                                <rect key="frame" x="71.5" y="0.0" width="41.5" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="21" id="AbK-ai-qRn"/>
                                 </constraints>
@@ -36,7 +36,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Kt7-2j-28f" customClass="CosmosView" customModule="Cosmos">
-                                <rect key="frame" x="37" y="29" width="120" height="21"/>
+                                <rect key="frame" x="32" y="29" width="120" height="21"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="21" id="bSC-AN-rLf"/>
@@ -51,7 +51,7 @@
                 <constraints>
                     <constraint firstItem="bJy-mM-dTK" firstAttribute="leading" secondItem="T28-nP-RHv" secondAttribute="leading" id="Kpc-1g-Nms"/>
                     <constraint firstItem="bJy-mM-dTK" firstAttribute="centerY" secondItem="T28-nP-RHv" secondAttribute="centerY" id="MSD-Dd-bgf"/>
-                    <constraint firstItem="g8V-Yb-2nc" firstAttribute="leading" secondItem="bJy-mM-dTK" secondAttribute="trailing" id="UFC-5y-f0f"/>
+                    <constraint firstItem="g8V-Yb-2nc" firstAttribute="leading" secondItem="bJy-mM-dTK" secondAttribute="trailing" constant="10" id="UFC-5y-f0f"/>
                     <constraint firstItem="g8V-Yb-2nc" firstAttribute="centerY" secondItem="T28-nP-RHv" secondAttribute="centerY" id="u8K-IR-9cf"/>
                     <constraint firstItem="g8V-Yb-2nc" firstAttribute="trailing" secondItem="T28-nP-RHv" secondAttribute="trailingMargin" id="vyM-CI-Qgb"/>
                 </constraints>
